@@ -1,100 +1,10 @@
 ﻿{
-    "background_color": "#c8232c",
+    "background_color": "#fff",
     "display": "standalone",
     "icons": [
         {
-            "src": "/images/dd555be3-4ad3-239d-9215-485cfb4b5921.webPlatform.png",
-            "sizes": "44x44",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/412886a9-884e-8a7f-bde5-70b7bf1ba2cf.webPlatform.png",
-            "sizes": "48x48",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/373b2c7f-8989-ea1d-7593-5e873bba1818.webPlatform.png",
-            "sizes": "1240x600",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/a65b90eb-2c38-1246-2522-bedb4b8c25e3.webPlatform.png",
-            "sizes": "300x300",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/5c8652a5-cc0b-4d36-9840-66893452b7d2.webPlatform.png",
-            "sizes": "150x150",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/ab6d892e-e169-a145-1cbd-e1e4926a6957.webPlatform.png",
-            "sizes": "88x88",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/b478568c-8248-61dd-5b92-35afa6283a43.webPlatform.png",
-            "sizes": "24x24",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/5a2fef5e-1292-396f-9e23-98a6e3ff873c.webPlatform.png",
-            "sizes": "50x50",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/c9f29e21-1161-370c-f5cd-5a3e6bae6971.webPlatform.png",
-            "sizes": "620x300",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/363e87f7-2104-d90c-f3fe-920a21d99823.webPlatform.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/89d8db54-a02c-fbb8-2fc8-1899fe68f58d.webPlatform.png",
+            "src": "/images/pinterest_logo",
             "sizes": "144x144",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/d9bd9375-98de-ecd8-8b9b-e6751aea8449.webPlatform.png",
-            "sizes": "96x96",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/762c0097-6905-4fed-535b-2531301051a3.webPlatform.png",
-            "sizes": "72x72",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/ed65d029-c1fd-5c57-a91d-da3c62c1df1e.webPlatform.png",
-            "sizes": "36x36",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/fb461c4c-44a4-dc1e-e396-66f603d8dd62.webPlatform.png",
-            "sizes": "1024x1024",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/4c6437a2-cda6-118a-a11a-2bb5d83baa44.webPlatform.png",
-            "sizes": "180x180",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/37113a06-ed32-56ab-1021-90b7051c50e5.webPlatform.png",
-            "sizes": "152x152",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/6c2d82e2-20e6-d963-8eb3-5b6567060c0e.webPlatform.png",
-            "sizes": "120x120",
-            "type": "image/png"
-        },
-        {
-            "src": "/images/30b63c4f-12eb-2e25-e07b-b61aa62f90de.webPlatform.png",
-            "sizes": "76x76",
             "type": "image/png"
         }
     ],
@@ -103,11 +13,11 @@
     "name": "Pinterest",
     "orientation": "portrait",
     "short_name": "Pinterest",
-    "start_url": "https://pinterest.com/?utm_source=homescreen_icon",
-    "theme_color": "#c8232c",
+    "start_url": "index.html",
+    "theme_color": "#e60023",
     "dir": "auto",
     "lang": "English",
-    "scope": "/Pinterest-PWA",
+    "scope": "/",
     "prefer_related_applications": true,
     "related_applications": [
         {
