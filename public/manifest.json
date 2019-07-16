@@ -1,5 +1,5 @@
 ﻿{
-    "background_color": "#fff",
+    "background_color": "#c8232c",
     "display": "standalone",
     "icons": [
         {
@@ -104,7 +104,7 @@
     "orientation": "portrait",
     "short_name": "Pinterest",
     "start_url": "https://pinterest.com/?utm_source=homescreen_icon",
-    "theme_color": "#e60023",
+    "theme_color": "#c8232c",
     "dir": "auto",
     "lang": "English",
     "scope": "/Pinterest-PWA",
